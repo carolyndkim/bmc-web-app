@@ -1,5 +1,7 @@
 from books.romans import romans
+from books.exodus import exodus
 
 bible = {
-    'Romans': romans
+    'Romans': romans,
+    'Exodus': exodus
 }
